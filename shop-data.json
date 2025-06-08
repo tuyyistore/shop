@@ -19,8 +19,8 @@
     },
     "categories": [
       {
-        "id": "nokos",
-        "name": "Nokos"
+        "id": "elektronik",
+        "name": "Elektronik"
       },
       {
         "id": "fashion",
@@ -42,7 +42,7 @@
     "products": [
       {
         "id": "e001",
-        "categoryId": "nokos",
+        "categoryId": "elektronik",
         "name": "Nokos",
         "price": "Rp 7.000",
         "description": "kami menyediakan nomor kosong atau nomor virtual, yang dapat di gunakan registrasi dan verifikasi saat pembuatan akun WhatsApp, hubungi saya jika anda berminat",
