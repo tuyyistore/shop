@@ -19,8 +19,8 @@
     },
     "categories": [
       {
-        "id": "elektronik",
-        "name": "Elektronik"
+        "id": "nokos",
+        "name": "Nokos"
       },
       {
         "id": "fashion",
@@ -42,12 +42,12 @@
     "products": [
       {
         "id": "e001",
-        "categoryId": "elektronik",
-        "name": "cewek cantik",
+        "categoryId": "nokos",
+        "name": "Nomor Kosong",
         "price": "Rp 7.000",
         "description": "kami menyediakan nomor kosong atau nomor virtual, yang dapat di gunakan registrasi dan verifikasi saat pembuatan akun WhatsApp, hubungi saya jika anda berminat",
         "image": "https://files.catbox.moe/r2kggn.jpg",
-        "link": "https://wa.me/6283121214520?text=hai",
+        "link": "https://wa.me/6283121214520?text=nokos",
         "badge": "Terlaris"
       },
       {
